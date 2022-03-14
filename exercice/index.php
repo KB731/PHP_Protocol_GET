@@ -18,7 +18,8 @@
             flex-direction: column;
         }
         a {
-            
+            list-style: none;
+            color: antiquewhite;
         }
     </style>
     <a href="salade.php?plat=salade">Salade</a>
